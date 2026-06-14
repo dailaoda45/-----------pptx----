@@ -1,0 +1,14 @@
+# 系统文件
+Thumbs.db
+.DS_Store
+*.swp
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+*.iml
+.vscode/
