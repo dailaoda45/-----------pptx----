@@ -13,6 +13,9 @@ __pycache__/
 *.iml
 .vscode/
 
+# AtomCode config
+.atomcode/
+
 # 输出 / 临时文件
 _生成结果/
 _tmp_fonts/
